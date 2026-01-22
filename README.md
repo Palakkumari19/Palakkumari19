@@ -11,7 +11,7 @@ I’m curious by nature, iterative in how I build, and I enjoy collaborating wit
 - **Backend:** Node.js, Express  
 - **Databases:** MongoDB, MySQL  
 - **Frontend:** React Native (Expo)  
-- **Tools:** Git, GitHub, Postman  
+- **Tools:** Git, GitHub, Postman, PowerBI, Tableau
 
 ---
 
